@@ -1,6 +1,6 @@
 # 你好，我是 XingGao 👋
 
-我是一名热爱技术的开发者，主要从事**Java**开发工作，同时也熟悉**Rust**、**Go**、**TypeScript**和**Vue.js**。我喜欢构建高效、用户友好的应用程序，无论是企业级应用、系统编程、后端开发还是前端设计，我都乐于迎接挑战并创造有影响力的解决方案。
+我是一名热爱技术的开发者，专注于现代Web应用和系统工具开发。我喜欢构建高效、用户友好的应用程序，无论是企业级应用、系统编程、后端开发还是前端设计，我都乐于迎接挑战并创造有影响力的解决方案。
 
 ---
 
@@ -8,11 +8,11 @@
 
 ### 编程语言
 
-- **Java**: Spring Boot, Spring Cloud, Mybatis, Maven
 - **Rust**: Tauri, Tokio, Actix
 - **Go**: Gin, Go Modules
 - **TypeScript/JavaScript**: Vue.js, Node.js
 - **Python**: Flask, FastAPI
+- **Java**: Spring Boot (基础)
 
 ### 前端
 
@@ -22,16 +22,16 @@
 
 ### 后端
 
-- **框架**: Spring Boot, Spring Cloud (Java), Tauri (Rust), Gin (Go)
+- **框架**: Gin (Go), Tauri (Rust), Spring Boot (Java)
 - **APIs**: RESTful APIs, GraphQL
 - **认证**: JWT, OAuth2
-- **微服务**: Spring Cloud, Dubbo
+- **微服务**: 分布式架构设计
 
 ### 数据库
 
-- **关系型**: MySQL, PostgreSQL, Oracle
+- **关系型**: MySQL, PostgreSQL
 - **NoSQL**: Redis, MongoDB
-- **ORM**: MyBatis, Hibernate/JPA
+- **ORM**: MyBatis, GORM
 
 ### DevOps
 
@@ -42,8 +42,8 @@
 ### 工具
 
 - **版本控制**: Git, GitHub
-- **IDE**: IntelliJ IDEA, VS Code, Rust Analyzer, WebStorm
-- **测试**: JUnit, Mockito, 单元测试, 集成测试
+- **IDE**: VS Code, IntelliJ IDEA, Rust Analyzer
+- **测试**: 单元测试, 集成测试
 
 ---
 
@@ -52,46 +52,61 @@
 - 探索 **WebAssembly (WASM)** 用于高性能 Web 应用
 - 深入研究 **分布式系统** 和 **微服务架构**
 - 学习 **跨平台应用开发** 最佳实践
-- 研究 **Java 虚拟机优化** 和 **高性能 Java 应用**
+- 研究 **Rust 生态系统** 和 **高性能系统编程**
 
 ---
 
 ## 💼 精选项目
 
+### [rust-nssm](https://github.com/xinggaoya/rust-nssm)
+
+- **描述**: 基于Rust的Windows服务管理工具，提供现代化的服务管理界面
+- **技术栈**: Rust, Tauri, Vue 3, TypeScript
+- **特点**:
+  - 🖥️ 现代化的桌面应用程序界面
+  - 🔄 实时服务状态监控和管理
+  - 📊 丰富的系统信息展示
+  - 🔧 完整的服务生命周期管理
+
+### [cloudflare-auto](https://github.com/xinggaoya/cloudflare-auto)
+
+- **描述**: IPv6动态DNS管理工具，自动监控IPv6地址变化并实时更新Cloudflare DNS
+- **技术栈**: TypeScript, Node.js, Cloudflare API
+- **特点**:
+  - 🚀 智能IPv6地址变化检测
+  - 🌐 多域名管理支持
+  - 📊 Web界面管理
+  - ⏰ 定时任务自动化
+
+### [broad-admin-ui-next](https://github.com/xinggaoya/broad-admin-ui-next)
+
+- **描述**: 基于Vue 3 + Naive UI的现代化管理后台系统
+- **技术栈**: Vue 3, TypeScript, Naive UI, Vite
+- **特点**:
+  - 🎨 现代化的UI设计
+  - 📱 响应式布局支持
+  - 🧩 丰富的组件库
+  - 🔧 开箱即用的后台解决方案
+
 ### [sing-box-windows](https://github.com/xinggaoya/sing-box-windows)
 
-- **描述**: 一个优雅的 Sing-Box Windows GUI 客户端，基于 Tauri 2.0 和 Vue 3 构建。
+- **描述**: 优雅的Sing-Box Windows GUI客户端，基于Tauri 2.0和Vue 3构建
 - **技术栈**: Tauri 2.0, Rust, Vue 3, TypeScript, Naive UI
 - **特点**:
-  - 🖥️ 基于 Tauri 2.0 和 Vue 3 的现代用户界面
-  - 🌙 支持浅色/深色主题，自动跟随系统设置
-  - 🔄 支持多订阅链接导入和自动更新
-  - 🌐 全面的代理模式支持
-  - 📊 丰富的统计功能
-  - 🔍 完整的日志系统
-  - ⚡ 优化的性能
-  - 🔒 安全特性
-  - 🌍 国际化支持
+  - 🖥️ 现代化的跨平台桌面应用
+  - 🌙 浅色/深色主题支持
+  - 🔄 多订阅链接管理
+  - 📊 详细的连接统计
 
-### [qwen-sdk](https://github.com/xinggaoya/qwen-sdk)
+### [bulk_rename](https://github.com/xinggaoya/bulk_rename)
 
-- **描述**: 通义千问 Go-SDK，为开发者提供便捷的工具包，帮助轻松实现与通义千问平台的集成。
-- **技术栈**: Go
+- **描述**: 功能强大的Excel文件批量文字替换工具
+- **技术栈**: Vue 3, TypeScript, Electron
 - **特点**:
-  - 简单易用：提供简单易用的 API，帮助轻松实现与通义千问平台的集成
-  - 功能丰富：提供丰富的 API，涵盖通义千问平台的各项功能
-  - 持续更新：持续跟进通义千问平台的最新功能，提供全面的开发支持
-
-### [Java 企业级项目]
-
-- **描述**: 基于 Spring Boot 和 Spring Cloud 的微服务架构企业应用。
-- **技术栈**: Java, Spring Boot, Spring Cloud, MyBatis, MySQL, Redis
-- **特点**:
-  - 🏗️ 微服务架构设计
-  - 🔐 完善的权限管理系统
-  - 📊 数据可视化分析
-  - 🔄 高并发处理能力
-  - 🌐 分布式事务支持
+  - 📄 支持.xls和.xlsx格式
+  - 🔄 批量文字替换功能
+  - 🖥️ 现代化的Web界面
+  - 🪟 Windows 7及以上系统兼容
 
 ---
 
@@ -111,7 +126,7 @@
 
 ## ⚡ 有趣的事实
 
-我热爱开源项目并相信社区驱动的开发力量。当我不编码时，我喜欢探索新技术和学习新知识。我对 Java 生态系统有深入的了解，并且乐于分享我的经验和知识。
+我热爱开源项目并相信社区驱动的开发力量。当我不编码时，我喜欢探索新技术和学习新知识。我对Rust和现代Web技术有深入的了解，并且乐于分享我的经验和知识。
 
 ---
 
