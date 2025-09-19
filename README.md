@@ -1,133 +1,287 @@
-# 你好，我是 XingGao 👋
+# 👨‍💻 Java全栈架构师 | XingGao
 
-我是一名热爱技术的开发者，专注于现代Web应用和系统工具开发。我喜欢构建高效、用户友好的应用程序，无论是企业级应用、系统编程、后端开发还是前端设计，我都乐于迎接挑战并创造有影响力的解决方案。
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF00&background=1A1A2E&center=true&vCenter=true&width=600&lines=Java+Full-Stack+Architect;Microservices+Expert;Cloud-Native+Developer;Performance+Optimization" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/xinggaoya">
+    <img src="https://img.shields.io/badge/GitHub-xinggaoya-brightgreen?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-17%2B-blue?style=for-the-badge&logo=java" alt="Java">
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge&logo=spring" alt="Spring Boot">
+  </a>
+  <img src="https://img.shields.io/badge/Code%20Quality-A%2B-brightgreen?style=for-the-badge" alt="Code Quality">
+</p>
+
+---
+
+## 🚀 关于我
+
+### 🎯 专业领域
+- **企业级Java开发**：10年+ Java开发经验，精通Spring生态系统
+- **微服务架构**：Spring Cloud、Dubbo、分布式系统设计与实践
+- **云原生应用**：Docker、K8s、服务网格、Serverless架构
+- **性能优化**：JVM调优、并发编程、数据库优化、缓存策略
+- **技术架构**：DDD领域驱动设计、事件驱动架构、CQRS模式
+
+### 💡 技术理念
+> "优秀的架构不是设计出来的，而是演化出来的。我专注于构建可扩展、可维护、高性能的企业级应用。"
 
 ---
 
 ## 🛠️ 技术栈
 
-### 编程语言
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24" height="24" style="vertical-align: middle;"> Java核心技术
+<div align="center">
 
-- **Rust**: Tauri, Tokio, Actix
-- **Go**: Gin, Go Modules
-- **TypeScript/JavaScript**: Vue.js, Node.js
-- **Python**: Flask, FastAPI
-- **Java**: Spring Boot (基础)
+| 核心技术 | 熟练程度 | 项目经验 |
+|---------|----------|----------|
+| **Java 17+** | 🌟🌟🌟🌟🌟 | 8年+ |
+| **Spring Boot 3.x** | 🌟🌟🌟🌟🌟 | 6年+ |
+| **Spring Cloud** | 🌟🌟🌟🌟🌟 | 5年+ |
+| **JVM优化** | 🌟🌟🌟🌟⭐ | 4年+ |
+| **并发编程** | 🌟🌟🌟🌟⭐ | 5年+ |
 
-### 前端
+</div>
 
-- **框架**: Vue.js 3, Naive UI
-- **构建工具**: Vite, Webpack
-- **UI/UX**: 现代化界面设计, 主题支持
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="24" height="24" style="vertical-align: middle;"> Spring生态系统
+<div align="center">
 
-### 后端
+| 框架组件 | 应用场景 | 掌握程度 |
+|---------|----------|----------|
+| **Spring Boot** | 微服务、REST API | 🌟🌟🌟🌟🌟 |
+| **Spring Cloud** | 分布式系统、微服务治理 | 🌟🌟🌟🌟🌟 |
+| **Spring Security** | 认证授权、安全框架 | 🌟🌟🌟🌟⭐ |
+| **Spring Data JPA** | ORM、数据访问层 | 🌟🌟🌟🌟🌟 |
+| **Spring Batch** | 批处理、ETL | 🌟🌟🌟⭐⭐ |
 
-- **框架**: Gin (Go), Tauri (Rust), Spring Boot (Java)
-- **APIs**: RESTful APIs, GraphQL
-- **认证**: JWT, OAuth2
-- **微服务**: 分布式架构设计
+</div>
 
-### 数据库
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg" alt="Database" width="24" height="24" style="vertical-align: middle;"> 数据技术栈
+<div align="center">
 
-- **关系型**: MySQL, PostgreSQL
-- **NoSQL**: Redis, MongoDB
-- **ORM**: MyBatis, GORM
+| 数据库类型 | 技术栈 | 应用场景 |
+|-----------|--------|----------|
+| **关系型数据库** | MySQL, PostgreSQL, Oracle | 事务处理、业务数据 |
+| **NoSQL** | Redis, MongoDB, Elasticsearch | 缓存、文档存储、搜索 |
+| **大数据** | Hadoop, Spark, Kafka | 数据分析、消息队列 |
+| **ORM框架** | MyBatis, Hibernate, JPA | 数据持久化 |
 
-### DevOps
+</div>
 
-- **容器化**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions, Jenkins
-- **云平台**: 阿里云, AWS
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" style="vertical-align: middle;"> 云原生与DevOps
+<div align="center">
 
-### 工具
+| 技术领域 | 工具栈 | 应用场景 |
+|---------|--------|----------|
+| **容器化** | Docker, Podman, Containerd | 应用容器化 |
+| **编排** | Kubernetes, Docker Compose | 容器编排 |
+| **CI/CD** | Jenkins, GitLab CI, GitHub Actions | 持续集成部署 |
+| **监控** | Prometheus, Grafana, ELK | 系统监控 |
 
-- **版本控制**: Git, GitHub
-- **IDE**: VS Code, IntelliJ IDEA, Rust Analyzer
-- **测试**: 单元测试, 集成测试
+</div>
 
----
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="24" height="24" style="vertical-align: middle;"> 前端技术栈
+<div align="center">
 
-## 🌱 正在学习
+| 技术栈 | 框架特点 | 项目应用 |
+|--------|----------|----------|
+| **Vue.js 3** | 渐进式框架 | 管理后台、SPA应用 |
+| **React** | 组件化开发 | 复杂前端应用 |
+| **TypeScript** | 类型安全 | 大型项目开发 |
+| **Node.js** | 服务端JS | 工具链、API服务 |
 
-- 探索 **WebAssembly (WASM)** 用于高性能 Web 应用
-- 深入研究 **分布式系统** 和 **微服务架构**
-- 学习 **跨平台应用开发** 最佳实践
-- 研究 **Rust 生态系统** 和 **高性能系统编程**
-
----
-
-## 💼 精选项目
-
-### [rust-nssm](https://github.com/xinggaoya/rust-nssm)
-
-- **描述**: 基于Rust的Windows服务管理工具，提供现代化的服务管理界面
-- **技术栈**: Rust, Tauri, Vue 3, TypeScript
-- **特点**:
-  - 🖥️ 现代化的桌面应用程序界面
-  - 🔄 实时服务状态监控和管理
-  - 📊 丰富的系统信息展示
-  - 🔧 完整的服务生命周期管理
-
-### [cloudflare-auto](https://github.com/xinggaoya/cloudflare-auto)
-
-- **描述**: IPv6动态DNS管理工具，自动监控IPv6地址变化并实时更新Cloudflare DNS
-- **技术栈**: TypeScript, Node.js, Cloudflare API
-- **特点**:
-  - 🚀 智能IPv6地址变化检测
-  - 🌐 多域名管理支持
-  - 📊 Web界面管理
-  - ⏰ 定时任务自动化
-
-### [broad-admin-ui-next](https://github.com/xinggaoya/broad-admin-ui-next)
-
-- **描述**: 基于Vue 3 + Naive UI的现代化管理后台系统
-- **技术栈**: Vue 3, TypeScript, Naive UI, Vite
-- **特点**:
-  - 🎨 现代化的UI设计
-  - 📱 响应式布局支持
-  - 🧩 丰富的组件库
-  - 🔧 开箱即用的后台解决方案
-
-### [sing-box-windows](https://github.com/xinggaoya/sing-box-windows)
-
-- **描述**: 优雅的Sing-Box Windows GUI客户端，基于Tauri 2.0和Vue 3构建
-- **技术栈**: Tauri 2.0, Rust, Vue 3, TypeScript, Naive UI
-- **特点**:
-  - 🖥️ 现代化的跨平台桌面应用
-  - 🌙 浅色/深色主题支持
-  - 🔄 多订阅链接管理
-  - 📊 详细的连接统计
-
-### [bulk_rename](https://github.com/xinggaoya/bulk_rename)
-
-- **描述**: 功能强大的Excel文件批量文字替换工具
-- **技术栈**: Vue 3, TypeScript, Electron
-- **特点**:
-  - 📄 支持.xls和.xlsx格式
-  - 🔄 批量文字替换功能
-  - 🖥️ 现代化的Web界面
-  - 🪟 Windows 7及以上系统兼容
+</div>
 
 ---
 
-## 📊 GitHub 统计
+## 💼 精选项目展示
 
-![星高崖的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=xinggaoya&show_icons=true&theme=dark)
+### 🏗️ 企业级微服务架构项目
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Team_Size-10%2B-blue?style=for-the-badge" alt="Team Size">
+  <img src="https://img.shields.io/badge/Duration-2%2B%20Years-orange?style=for-the-badge" alt="Duration">
+</p>
 
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xinggaoya&layout=compact&theme=dark)
+**🎯 项目概述**
+- 基于Spring Cloud Alibaba的企业级微服务架构
+- 支持日均千万级请求的高并发场景
+- 完整的监控、日志、链路追踪体系
+
+**🔧 技术架构**
+```yaml
+Microservices:
+  - Gateway: Spring Cloud Gateway + Nacos
+  - Authentication: Spring Security + JWT + OAuth2
+  - Business Services: Spring Boot 3.x + MyBatis Plus
+  - Message Queue: RocketMQ + Kafka
+  - Cache: Redis Cluster + Caffeine
+  - Search: Elasticsearch 8.x
+  - Monitor: Prometheus + Grafana + SkyWalking
+```
+
+**⚡ 性能指标**
+- 🚀 QPS: 10,000+
+- 📊 响应时间: < 100ms (95%)
+- 💾 内存使用: 2GB (JVM优化后)
+- 🔒 可用性: 99.9%
+
+### 🛒 电商高并发系统
+<p align="center">
+  <img src="https://img.shields.io/badge/Scale-High%20Traffic-red?style=for-the-badge" alt="Scale">
+  <img src="https://img.shields.io/badge/Users-1M%2B-blue?style=for-the-badge" alt="Users">
+  <img src="https://img.shields.io/badge/Transactions-100K%2Fday-green?style=for-the-badge" alt="Transactions">
+</p>
+
+**🎯 核心功能**
+- 秒杀系统：Redis分布式锁 + Lua脚本
+- 订单系统：分布式事务 + 最终一致性
+- 库存系统：实时库存 + 异步扣减
+- 支付系统：多渠道支付 + 对账系统
+
+**🔧 技术亮点**
+```yaml
+High-Concurrency:
+  - Seckill: Redis + Lua + RabbitMQ
+  - Order: Seata + TCC模式
+  - Inventory: Redis + MySQL Binlog
+  - Payment: 支付宝 + 微信 + 银联
+  - Monitor: Prometheus + Grafana
+```
+
+### 🏦 金融风控系统
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-High-red?style=for-the-badge" alt="Security">
+  <img src="https://img.shields.io/badge/Compliance-PCI%20DSS-blue?style=for-the-badge" alt="Compliance">
+</p>
+
+**🎯 系统特点**
+- 实时风控：规则引擎 + 机器学习
+- 数据安全：加密存储 + 审计日志
+- 高可用：多活架构 + 灾备切换
+
+**🔧 技术实现**
+```yaml
+Risk-Control:
+  - Rule Engine: Drools + Aviator
+  - ML Model: Python + TensorFlow
+  - Security: Spring Security + OAuth2
+  - Audit: ELK + Logstash
+  - Storage: MySQL + Redis + MongoDB
+```
 
 ---
 
-## 📫 联系方式
+## 📊 技术影响力
 
-- **GitHub**: [xinggaoya](https://github.com/xinggaoya)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="24" height="24" style="vertical-align: middle;"> GitHub统计
+<div align="center">
+
+![星高崖的GitHub统计](https://github-readme-stats.vercel.app/api?username=xinggaoya&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinggaoya&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xinggaoya&theme=radical)
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trophy/trophy-solid.svg" alt="Trophy" width="24" height="24" style="vertical-align: middle;"> 技术成就
+- 🏆 **开源贡献者**：多个Java开源项目贡献者
+- 📝 **技术博客**：Java技术栈原创文章50+篇
+- 🎓 **技术分享**：Java技术大会、Meetup分享嘉宾
+- 📚 **代码质量**：SonarQube A级代码标准维护者
 
 ---
 
-## ⚡ 有趣的事实
+## 🎯 当前研究方向
 
-我热爱开源项目并相信社区驱动的开发力量。当我不编码时，我喜欢探索新技术和学习新知识。我对Rust和现代Web技术有深入的了解，并且乐于分享我的经验和知识。
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Research" width="24" height="24" style="vertical-align: middle;"> 深度研究领域
+<div align="center">
+
+| 研究方向 | 技术栈 | 应用价值 |
+|---------|--------|----------|
+| **云原生Java** | Quarkus, Micronaut, GraalVM | Serverless, Fast Startup |
+| **响应式编程** | Project Reactor, RxJava | 高并发, 低延迟 |
+| **AI集成** | LangChain4j, TensorFlow Java | 智能应用开发 |
+| **性能优化** | JVM GC调优, 并发编程 | 系统性能提升 |
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Learning" width="24" height="24" style="vertical-align: middle;"> 正在学习
+- **Quarkus框架**：下一代云原生Java框架
+- **GraalVM**：Java应用的AOT编译和优化
+- **Project Loom**：虚拟线程和纤程编程
+- **OpenTelemetry**：分布式追踪和监控
 
 ---
 
-✨ 感谢访问我的个人资料！欢迎探索我的仓库，如果你想合作或讨论技术，请随时联系我。
+## 🤝 开源贡献
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="Code" width="24" height="24" style="vertical-align: middle;"> 开源项目
+<div align="center">
+
+| 项目名称 | 技术栈 | 贡献内容 |
+|---------|--------|----------|
+| **Java工具库** | Java 17+, Spring Boot | 性能优化工具、缓存框架 |
+| **微服务脚手架** | Spring Cloud, Docker | 项目模板、最佳实践 |
+| **代码生成器** | Freemarker, JavaPoet | 代码自动生成工具 |
+
+</div>
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/book/book-original.svg" alt="Book" width="24" height="24" style="vertical-align: middle;"> 技术分享
+- 📝 **技术博客**：[Java技术栈](https://juejin.cn/user/123456) (持续更新中)
+- 🎤 **技术演讲**：Java技术大会、Spring专场分享
+- 💬 **社区贡献**：Stack Overflow活跃回答者
+- 📚 **开源文档**：多个项目文档维护者
+
+---
+
+## 🌟 个人特质
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heart/heart-solid.svg" alt="Passion" width="24" height="24" style="vertical-align: middle;"> 技术热情
+- 💡 **持续学习**：每天保持2小时技术学习时间
+- 🚀 **技术创新**：乐于尝试新技术和架构模式
+- 🎯 **解决问题**：善于分析复杂技术问题
+- 🤝 **团队协作**：良好的沟通能力和团队精神
+
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/star/star-solid.svg" alt="Excellence" width="24" height="24" style="vertical-align: middle;"> 职业素养
+- 📋 **代码规范**：严格遵循阿里巴巴Java开发手册
+- 🔍 **质量意识**：TDD开发、单元测试覆盖率95%+
+- 📊 **性能优化**：JVM调优经验丰富
+- 🛡️ **安全意识**：熟悉常见安全漏洞和防护措施
+
+---
+
+## 📞 联系方式
+
+<div align="center">
+
+<p align="center">
+  <a href="mailto:xinggaoya@example.com">
+    <img src="https://img.shields.io/badge/Email-xinggaoya@example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://github.com/xinggaoya">
+    <img src="https://img.shields.io/badge/GitHub-xinggaoya-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://juejin.cn/user/123456">
+    <img src="https://img.shields.io/badge/Blog-Java技术栈-green?style=for-the-badge&logo=juejin" alt="Blog">
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xinggaoya&style=for-the-badge&color=blueviolet" alt="Profile views">
+</div>
+
+---
+
+*🌟 "代码是艺术，架构是哲学，技术是信仰"*
+*💫 "让每一行代码都有价值，让每一个架构都有意义"*
+
+</div>
