@@ -64,9 +64,9 @@
 
 ### 🎯 我是谁
 
-- 💻 **星高崖** | 全栈开发者
+- 💻 **XingGao** | 全栈开发者
 - 🌍 坐标：中国
-- 💼 4年开发经验
+- 💼 4 年开发经验
 - 🔥 热爱开源，持续分享
 
     </td>
@@ -74,14 +74,15 @@
 
 ### ⚡ 我在做什么
 
-- 🚀 现代Web应用开发
+- 🚀 现代 Web 应用开发
 - 🛠️ 跨平台桌面工具
 - 🔧 系统级工具开发
 - 📦 开源项目维护
 
-    </td>
-  </tr>
-</table>
+      </td>
+
+    </tr>
+  </table>
 
 ---
 
@@ -97,12 +98,12 @@
 
 <div align="center">
 
-| 语言 | 熟练度 | 主要用途 |
-|:----:|:------:|:---------|
-| <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white" alt=""> | ⭐⭐⭐⭐⭐ | 企业级后端、微服务 |
-| <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 系统工具、桌面应用 |
-| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 高性能服务、API |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 前端开发、Node.js |
+|                                                        语言                                                         |   熟练度   | 主要用途           |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------: | :----------------- |
+|       <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white" alt="">       | ⭐⭐⭐⭐⭐ | 企业级后端、微服务 |
+|       <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt="">       | ⭐⭐⭐⭐☆  | 系统工具、桌面应用 |
+|         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="">         | ⭐⭐⭐⭐☆  | 高性能服务、API    |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""> | ⭐⭐⭐⭐☆  | 前端开发、Node.js  |
 
 </div>
 
@@ -170,12 +171,12 @@
 
 ### 🌙 作息时间
 
-| 时间 | 状态 | 活动 |
-|:----:|:-----:|:-----|
+|  时间   |   状态    | 活动            |
+| :-----: | :-------: | :-------------- |
 | 🌅 早上 | ☕ 充能中 | 喝咖啡 + 刷资讯 |
-| 🌞 白天 | 💻 编码中 | 写代码 + 开会 |
-| 🌃 晚上 | 🔥 学习中 | 研究新技术 |
-| 🌊 深夜 | 💤 充电中 | 休息 + 补觉 |
+| 🌞 白天 | 💻 编码中 | 写代码 + 开会   |
+| 🌃 晚上 | 🔥 学习中 | 研究新技术      |
+| 🌊 深夜 | 💤 充电中 | 休息 + 补觉     |
 
 ### ☕ 燃料消耗
 
@@ -196,12 +197,12 @@
 
 <div align="center">
 
-| 正在探索 | 进度 | 状态 |
-|:--------|:----:|:-----:|
-| **Kubernetes** | ▓▓▓▓▓░░░░ 50% | 🔄 进行中 |
-| **LangChain** | ▓▓▓░░░░░░ 30% | 🔄 进行中 |
-| **Rust异步编程** | ▓▓▓▓▓▓░░░ 60% | 🔄 进行中 |
-| **Quarkus** | ▓▓░░░░░░░ 20% | 📅 计划中 |
+| 正在探索          |     进度      |   状态    |
+| :---------------- | :-----------: | :-------: |
+| **Kubernetes**    | ▓▓▓▓▓░░░░ 50% | 🔄 进行中 |
+| **LangChain**     | ▓▓▓░░░░░░ 30% | 🔄 进行中 |
+| **Rust 异步编程** | ▓▓▓▓▓▓░░░ 60% | 🔄 进行中 |
+| **Quarkus**       | ▓▓░░░░░░░ 20% | 📅 计划中 |
 
 </div>
 
@@ -281,13 +282,6 @@
 
 <div align="center">
 
-### 📊 贡献热力图
-
-![贡献热力图](https://ghchart.rshah.org/xinggaoya)
-
-<br>
-<br>
-
 ### 🐍 贡献贪吃蛇
 
 <picture>
@@ -297,7 +291,6 @@
 </picture>
 
 <br>
-
 
 ![访问量](https://visitor-badge.laobi.icu/badge?page_id=xinggaoya.xinggaoya&color=2F8B89&style=flat-square)
 
