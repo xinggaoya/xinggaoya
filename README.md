@@ -1,321 +1,315 @@
-# 👨‍💻 全栈开发者 | XingGao
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&background=1A1A2E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%2B+Rust+%2B+Go;Modern+Web+Applications;System+Tools" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/xinggaoya">
-    <img src="https://img.shields.io/badge/GitHub-xinggaoya-brightgreen?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-17%2B-blue?style=for-the-badge&logo=java" alt="Java">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-Stable-orange?style=for-the-badge&logo=rust" alt="Rust">
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/Go-1.21%2B-cyan?style=for-the-badge&logo=go" alt="Go">
-  </a>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-purple?style=for-the-badge" alt="Experience">
-</p>
-
----
-
-## 🚀 关于我
-
-### 🎯 专业背景
-- **全栈开发工程师**：4年开发经验，专注于现代Web应用和系统工具开发
-- **多语言开发者**：熟练掌握Java、Rust、Go、TypeScript等编程语言
-- **技术栈广度**：从前端界面到后端架构，从单体应用到微服务，从Web应用到系统工具
-- **开源爱好者**：积极参与开源社区，分享技术经验和最佳实践
-
-### 💡 开发理念
-> "好的代码不仅要功能完善，更要易于维护和扩展。我热衷于使用合适的技术解决实际问题。"
-
----
-
-## 🛠️ 技术栈
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="24" height="24" style="vertical-align: middle;"> Java技术栈
 <div align="center">
 
-| 技术领域 | 技术栈 | 项目经验 |
-|---------|--------|----------|
-| **后端框架** | Spring Boot, Spring Cloud | 3年+ |
-| **数据访问** | MyBatis, Spring Data JPA | 3年+ |
-| **构建工具** | Maven, Gradle | 4年+ |
-| **测试框架** | JUnit, Mockito | 2年+ |
-| **微服务** | Spring Cloud Alibaba, Dubbo | 1年+ |
+  <!-- 头像光环效果 -->
+  <img src="https://github.com/xinggaoya.png" width="140" style="border-radius: 50%; border: 4px solid #2F8B89; box-shadow: 0 0 20px rgba(47, 139, 137, 0.5);" alt="">
 
-</div>
+  <!-- 名称 -->
+  <h1 style="margin: 16px 0; font-size: 38px;">XingGao</h1>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="24" height="24" style="vertical-align: middle;"> Rust系统开发
-<div align="center">
+  <!-- 角色标签 -->
+  <p>
+    <img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-全栈开发者-blue?style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5-开源爱好者-red?style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/%E2%9A%A1-4年经验-yellow?style=for-the-badge" alt="">
+  </p>
 
-| 技术领域 | 技术栈 | 应用场景 |
-|---------|--------|----------|
-| **桌面应用** | Tauri 2.0, Tokio | 跨平台GUI应用 |
-| **系统工具** | Rust标准库, 异步编程 | Windows系统工具 |
-| **Web后端** | Axum, Actix Web | 高性能Web服务 |
-| **CLI工具** | Clap, anyhow | 命令行应用 |
+  <!-- 社交链接 -->
+  <p>
+    <a href="https://github.com/xinggaoya">
+      <img src="https://img.shields.io/badge/GitHub-@xinggaoya-181717?style=for-the-badge&logo=github" alt="">
+    </a>
+  </p>
 
-</div>
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="24" height="24" style="vertical-align: middle;"> Go开发
-<div align="center">
-
-| 技术领域 | 技术栈 | 项目经验 |
-|---------|--------|----------|
-| **Web框架** | Gin, Echo | 2年+ |
-| **数据库** | GORM, sqlx | 2年+ |
-| **工具链** | Go Modules, Cobra | 1年+ |
-| **并发编程** | Goroutines, Channels | 2年+ |
-
-</div>
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align: middle;"> 前端技术栈
-<div align="center">
-
-| 技术栈 | 框架特点 | 项目应用 |
-|--------|----------|----------|
-| **Vue.js 3** | 渐进式框架 | 管理后台、SPA应用 |
-| **TypeScript** | 类型安全 | 大型前端项目 |
-| **Naive UI** | Vue 3组件库 | 现代化UI界面 |
-| **Vite** | 快速构建工具 | 前端项目构建 |
-| **Electron** | 桌面应用 | 跨平台桌面工具 |
-
-</div>
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg" alt="Database" width="24" height="24" style="vertical-align: middle;"> 数据技术栈
-<div align="center">
-
-| 数据库类型 | 技术栈 | 应用场景 |
-|-----------|--------|----------|
-| **关系型** | MySQL, PostgreSQL | 业务数据存储 |
-| **NoSQL** | Redis, MongoDB | 缓存、文档存储 |
-| **搜索引擎** | Elasticsearch | 全文搜索 |
-| **消息队列** | RocketMQ, Kafka | 异步消息处理 |
+  <!-- 动态状态 -->
+  <p>
+    <img src="https://img.shields.io/badge/状态-构建中__中-success?style=flat-square&logo=github" alt="">
+    <img src="https://img.shields.io/badge/专注-全栈开发-blue?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/学习-Always_Learning-green?style=flat-square" alt="">
+  </p>
 
 </div>
 
 ---
 
-## 💼 精选项目展示
+<div align="center">
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="24" height="24" style="vertical-align: middle;"> [rust-nssm](https://github.com/xinggaoya/rust-nssm)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust" alt="Language">
-  <img src="https://img.shields.io/badge/Framework-Tauri-blue?style=for-the-badge&logo=tauri" alt="Framework">
+### 🔥 当前状态
+
+<img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=visualstudiocode" alt="">
+<img src="https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows" alt="">
+<img src="https://img.shields.io/badge/Editor-JetBrains_Mono-FFFFFF?style=flat-square&logo=jetbrains" alt="">
+<img src="https://img.shields.io/badge/Coffee-☕-6F4E37?style=flat-square" alt="">
+
+<br>
+
+<img src="https://img.shields.io/badge/🚀-正在构建-工具应用?color=success&style=flat-square" alt="">
+<img src="https://img.shields.io/badge/📚-正在学习-AI集成?color=important&style=flat-square" alt="">
+<img src="https://img.shields.io/badge/💡-正在探索-云原生?color=informational&style=flat-square" alt="">
+
+</div>
+
+---
+
+## 👋 关于我
+
+<div align="center">
+
+> **用合适的工具解决实际问题**
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 🎯 我是谁
+
+- 💻 **星高崖** | 全栈开发者
+- 🌍 坐标：中国
+- 💼 4年开发经验
+- 🔥 热爱开源，持续分享
+
+    </td>
+    <td width="50%">
+
+### ⚡ 我在做什么
+
+- 🚀 现代Web应用开发
+- 🛠️ 跨平台桌面工具
+- 🔧 系统级工具开发
+- 📦 开源项目维护
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ 技术武器库
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,rust,go,ts,js,python,spring,gin,vue,react,tauri,docker,git,postgres,redis,linux,idea,vscode&theme=light" alt="Skills" width="600">
+
+</div>
+
+### 编程语言
+
+<div align="center">
+
+| 语言 | 熟练度 | 主要用途 |
+|:----:|:------:|:---------|
+| <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white" alt=""> | ⭐⭐⭐⭐⭐ | 企业级后端、微服务 |
+| <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 系统工具、桌面应用 |
+| <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 高性能服务、API |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt=""> | ⭐⭐⭐⭐☆ | 前端开发、Node.js |
+
+</div>
+
+### 框架与工具
+
+<div align="center">
+
+<p>
+  <!-- 后端 -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Gin-6DB33F?style=flat-square&logo=gin&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Axum-FF0000?style=flat-square&logo=axum&logoColor=white" alt="">
 </p>
 
-**🎯 项目概述**
-- 基于Rust的Windows服务管理工具，提供现代化的服务管理界面
-- 使用Tauri 2.0 + Vue 3构建跨平台桌面应用
+<p>
+  <!-- 前端 -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Naive%20UI-FFFFFF?style=flat-square&logo=naiveui&logoColor=black" alt="">
+</p>
 
-**🔧 技术架构**
-```yaml
-Tech Stack:
-  Frontend: Vue 3 + TypeScript + Naive UI
-  Backend: Tauri 2.0 + Rust (Tokio async runtime)
-  System: Windows Service API integration
-  Build: Cargo + Vite
+<p>
+  <!-- 桌面 -->
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" alt="">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="">
+</p>
+
+<p>
+  <!-- 数据库 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="">
+</p>
+
+<p>
+  <!-- 工具 -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="">
+</p>
+
+</div>
+
+---
+
+## 🎮 开发者日常
+
+<div align="center">
+
+### 💻 开发环境
+
+```
+┌─────────────────────────────────────┐
+│  █░░ ░░░░ ░░░░ █░░ ░░░░ ░░░░ █░░   │
+│  ░░ ░░░░ ░░░░░░ ░░░░ ░░░░░░ ░░░   │
+│  ░░ ░░░░ ░░░░░░ ░░░░ ░░░░░░ ░░░   │
+│  █░░ ░░░░ ░░░░ █░░ ░░░░ ░░░░ █░░   │
+│                                     │
+│     Visual Studio Code              │
+│     JetBrains IntelliJ IDEA         │
+└─────────────────────────────────────┘
 ```
 
-**⭐ 核心功能**
-- 🖥️ 现代化的桌面应用程序界面
-- 🔄 实时服务状态监控和管理
-- 📊 丰富的系统信息展示
-- 🔧 完整的服务生命周期管理
+### 🌙 作息时间
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align: middle;"> [cloudflare-auto](https://github.com/xinggaoya/cloudflare-auto)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript" alt="Language">
-  <img src="https://img.shields.io/badge/Framework-Node.js-green?style=for-the-badge&logo=node.js" alt="Framework">
-</p>
+| 时间 | 状态 | 活动 |
+|:----:|:-----:|:-----|
+| 🌅 早上 | ☕ 充能中 | 喝咖啡 + 刷资讯 |
+| 🌞 白天 | 💻 编码中 | 写代码 + 开会 |
+| 🌃 晚上 | 🔥 学习中 | 研究新技术 |
+| 🌊 深夜 | 💤 充电中 | 休息 + 补觉 |
 
-**🎯 项目概述**
-- IPv6动态DNS管理工具，自动监控IPv6地址变化并实时更新Cloudflare DNS
-- 支持多域名管理和Web界面操作
+### ☕ 燃料消耗
 
-**🔧 技术架构**
-```yaml
-Tech Stack:
-  Frontend: Vue 3 + TypeScript
-  Backend: Node.js + Express
-  API: Cloudflare API v4
-  Features: IPv6 monitoring, DNS auto-update
-```
-
-**⭐ 核心功能**
-- 🚀 智能IPv6地址变化检测
-- 🌐 多域名管理支持
-- 📊 Web界面管理
-- ⏰ 定时任务自动化
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="24" height="24" style="vertical-align: middle;"> [broad-admin-ui-next](https://github.com/xinggaoya/broad-admin-ui-next)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Framework-Vue%203-4FC08D?style=for-the-badge&logo=vue.js" alt="Framework">
-  <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript" alt="Language">
-</p>
-
-**🎯 项目概述**
-- 基于Vue 3 + Naive UI的现代化管理后台系统
-- 提供完整的后台管理解决方案
-
-**🔧 技术架构**
-```yaml
-Tech Stack:
-  Framework: Vue 3 + TypeScript
-  UI Library: Naive UI
-  Build Tool: Vite
-  Features: 响应式设计, 组件化开发
-```
-
-**⭐ 核心功能**
-- 🎨 现代化的UI设计
-- 📱 响应式布局支持
-- 🧩 丰富的组件库
-- 🔧 开箱即用的后台解决方案
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="24" height="24" style="vertical-align: middle;"> [sing-box-windows](https://github.com/xinggaoya/sing-box-windows)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust" alt="Language">
-  <img src="https://img.shields.io/badge/Framework-Tauri-blue?style=for-the-badge&logo=tauri" alt="Framework">
-</p>
-
-**🎯 项目概述**
-- 优雅的Sing-Box Windows GUI客户端，基于Tauri 2.0和Vue 3构建
-- 提供现代化的代理管理界面
-
-**🔧 技术架构**
-```yaml
-Tech Stack:
-  Frontend: Vue 3 + TypeScript + Naive UI
-  Backend: Tauri 2.0 + Rust
-  Features: 代理管理, 连接统计, 主题切换
-```
-
-**⭐ 核心功能**
-- 🖥️ 现代化的跨平台桌面应用
-- 🌙 浅色/深色主题支持
-- 🔄 多订阅链接管理
-- 📊 详细的连接统计
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="24" height="24" style="vertical-align: middle;"> [feishu-message-platform](https://github.com/xinggaoya/feishu-message-platform)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Language-Go-cyan?style=for-the-badge&logo=go" alt="Language">
-  <img src="https://img.shields.io/badge/Type-Private-red?style=for-the-badge" alt="Type">
-</p>
-
-**🎯 项目概述**
-- 基于Go的飞书消息推送平台，支持多种消息类型和批量发送功能
-- 提供完整的消息推送解决方案
-
-**🔧 技术架构**
-```yaml
-Tech Stack:
-  Backend: Go + Gin
-  API: 飞书开放平台API
-  Features: 消息推送, 批量发送, Webhook
-```
-
-**⭐ 核心功能**
-- 📨 多种消息类型支持
-- 📊 批量消息发送
-- 🔗 Webhook集成
-- 📱 移动端适配
-
----
-
-## 📊 GitHub统计
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="24" height="24" style="vertical-align: middle;"> 代码活动统计
 <div align="center">
 
-![星高崖的GitHub统计](https://github-readme-stats.vercel.app/api?username=xinggaoya&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinggaoya&layout=compact&theme=vue-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xinggaoya&theme=vue-dark)
+<img src="https://img.shields.io/badge/咖啡-每日3杯-6F4E37?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/键盘-每年1个-000000?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Bug-无数个-red?style=flat-square" alt="">
+<img src="https://img.shields.io/badge/Feature-持续开发中-success?style=flat-square" alt="">
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trophy/trophy-solid.svg" alt="Trophy" width="24" height="24" style="vertical-align: middle;"> 开源贡献
-- 🏆 **多语言开发者**：Java、Rust、Go、TypeScript项目经验
-- 📝 **技术分享**：持续在GitHub分享技术项目
-- 🎯 **实用工具**：开发了多个实用的系统工具
-- 📚 **代码质量**：注重代码规范和最佳实践
-
----
-
-## 🎯 技术专长
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cogs/cogs-solid.svg" alt="Skills" width="24" height="24" style="vertical-align: middle;"> 核心能力
-<div align="center">
-
-| 技术领域 | 掌握程度 | 项目应用 |
-|---------|----------|----------|
-| **后端开发** | 🌟🌟🌟🌟🌟 | Spring Boot, Gin, Axum |
-| **前端开发** | 🌟🌟🌟🌟⭐ | Vue.js 3, TypeScript |
-| **系统工具** | 🌟🌟🌟🌟⭐ | Rust + Tauri桌面应用 |
-| **数据库设计** | 🌟🌟🌟🌟⭐ | MySQL, Redis, MongoDB |
-| **API设计** | 🌟🌟🌟🌟🌟 | RESTful, GraphQL |
-| **DevOps** | 🌟🌟🌟⭐⭐ | Docker, CI/CD |
-
-</div>
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocket/launch-solid.svg" alt="Learning" width="24" height="24" style="vertical-align: middle;"> 正在学习
-- **云原生技术**：Kubernetes, Service Mesh
-- **AI集成**：LangChain, 机器学习应用
-- **高级Rust**：异步编程, 系统编程
-- **现代Java**：Quarkus, GraalVM
-
----
-
-## 🌟 开源项目特点
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/star/star-solid.svg" alt="Features" width="24" height="24" style="vertical-align: middle;"> 项目特色
-- **实用性**：解决实际问题的工具和应用
-- **现代化**：使用最新的技术栈和开发模式
-- **跨平台**：支持多操作系统和设备
-- **开源精神**：积极分享，持续改进
-
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" alt="Code" width="24" height="24" style="vertical-align: middle;"> 开发习惯
-- 💡 **代码质量**：注重可读性和可维护性
-- 🧪 **测试驱动**：编写单元测试确保代码质量
-- 📚 **文档完善**：提供详细的使用文档
-- 🔄 **持续集成**：自动化构建和部署
-
----
-
-## 🤝 联系方式
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/xinggaoya">
-    <img src="https://img.shields.io/badge/GitHub-xinggaoya-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:xinggaoya@example.com">
-    <img src="https://img.shields.io/badge/Email-xinggaoya@example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xinggaoya&style=for-the-badge&color=blueviolet" alt="Profile views">
 </div>
 
 ---
 
-*🌟 "用合适的工具解决实际问题"*
-*💫 "持续学习，保持好奇，创造价值"*
+## 🌟 正在学习
+
+<div align="center">
+
+| 正在探索 | 进度 | 状态 |
+|:--------|:----:|:-----:|
+| **Kubernetes** | ▓▓▓▓▓░░░░ 50% | 🔄 进行中 |
+| **LangChain** | ▓▓▓░░░░░░ 30% | 🔄 进行中 |
+| **Rust异步编程** | ▓▓▓▓▓▓░░░ 60% | 🔄 进行中 |
+| **Quarkus** | ▓▓░░░░░░░ 20% | 📅 计划中 |
+
+</div>
+
+---
+
+## 🏆 成就解锁
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🏅-4年开发经验-blue?style=for-the-badge" alt="">
+        <p><sub>全栈开发者</sub></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🌟-多语言编程-orange?style=for-the-badge" alt="">
+        <p><sub>Java/Rust/Go</sub></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🚀-桌面应用开发-red?style=for-the-badge" alt="">
+        <p><sub>Tauri专家</sub></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/💡-开源贡献-green?style=for-the-badge" alt="">
+        <p><sub>持续分享</sub></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔥-终身学习者-yellow?style=for-the-badge" alt="">
+        <p><sub>Always Learning</sub></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://img.shields.io/badge/☕-咖啡驱动-6F4E37?style=for-the-badge" alt="">
+        <p><sub>Powered by Coffee</sub></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📝 开发哲学
+
+<div align="center">
+
+```
+┌────────────────────────────────────────┐
+│                                        │
+│   "代码是写给人看的，                 │
+│    只是顺便让机器执行"                 │
+│                                        │
+│   - 好的代码 > 聪明的代码              │
+│   - 简单 > 复杂                        │
+│   - 可读性 > 炫技                      │
+│                                        │
+└────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 贡献热力图
+
+![贡献热力图](https://ghchart.rshah.org/xinggaoya)
+
+<br>
+<br>
+
+### 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinggaoya/xinggaoya/master/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xinggaoya/xinggaoya/master/dist/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xinggaoya/xinggaoya/master/dist/github-snake.svg">
+</picture>
+
+<br>
+
+
+![访问量](https://visitor-badge.laobi.icu/badge?page_id=xinggaoya.xinggaoya&color=2F8B89&style=flat-square)
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤%20by%20XingGao-red?style=flat-square" alt="">
+
+**💫 持续学习，保持好奇，创造价值**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=666&background=FFFFFF00&center=true&vCenter=true&width=300&lines=Thanks%20for%20visiting%20my%20profile!;Have%20a%20great%20day!%20%F0%9F%91%8B" alt="Thanks">
 
 </div>
