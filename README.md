@@ -65,7 +65,7 @@
 ### 🎯 我是谁
 
 - 💻 **XingGao** | 全栈开发者
-- 🌍 坐标：中国
+- 🌍 坐标：地球
 - 💼 4 年开发经验
 - 🔥 热爱开源，持续分享
 
@@ -306,3 +306,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=666&background=FFFFFF00&center=true&vCenter=true&width=300&lines=Thanks%20for%20visiting%20my%20profile!;Have%20a%20great%20day!%20%F0%9F%91%8B" alt="Thanks">
 
 </div>
+
